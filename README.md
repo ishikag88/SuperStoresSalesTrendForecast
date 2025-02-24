@@ -81,4 +81,8 @@ The dataset includes various attributes such as:
 ---
 💡 **Feel free to contribute, suggest improvements, or fork this project!** 🚀
 
+## 📩 Contact :
+📧 Email: ishika.agrawal0105@gmail.com    
+💼 LinkedIn: https://www.linkedin.com/in/ishikaagrawal88  
+
 
